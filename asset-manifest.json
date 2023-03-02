@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rrouter-1/static/css/main.ab3997ef.css",
+    "main.js": "/rrouter-1/static/js/main.43207b29.js",
+    "static/js/787.3317e101.chunk.js": "/rrouter-1/static/js/787.3317e101.chunk.js",
+    "index.html": "/rrouter-1/index.html",
+    "main.ab3997ef.css.map": "/rrouter-1/static/css/main.ab3997ef.css.map",
+    "main.43207b29.js.map": "/rrouter-1/static/js/main.43207b29.js.map",
+    "787.3317e101.chunk.js.map": "/rrouter-1/static/js/787.3317e101.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab3997ef.css",
+    "static/js/main.43207b29.js"
+  ]
+}

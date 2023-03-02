@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
 }
@@ -26,6 +30,23 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.form{
+  width: 40%;
+  margin: 0 auto;
+}
+
+input, textarea, button{
+  width: 100%;
+  margin: 1.2rem auto;
+ 
+}
+
+header{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
 }
 
 @keyframes App-logo-spin {
